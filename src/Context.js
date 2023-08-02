@@ -46,11 +46,11 @@ const intodolist = [
   },
   {
     id: 2,
-    text: '영어 공부',
+    text: '스프링 부트 공부',
     done: true
   },
-  { id: 3, text: '점심먹기', done: false },
-  { id: 4, text: '회의하기', done: false }
+  { id: 3, text: '디자인 패턴 공부', done: false },
+  { id: 4, text: '깃 공부', done: false }
 ];
 /*
     *** 렌더링이란 서버로부터 HTML 파일을 받아 브라우저에 뿌려주는 과정 ***
